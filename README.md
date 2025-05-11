@@ -51,7 +51,8 @@ P
           print("MAC Address",s.recv(1024).decode()) 
 ```
 ## OUPUT - ARP
-![CN arp](https://github.com/user-attachments/assets/b7321793-c3d9-49ae-8bd0-bdcc2ede34b6)
+![Screenshot 2025-05-11 084646](https://github.com/user-attachments/assets/4b16397e-32da-46b2-b1b3-bba9122c7324)
+
 
 ## PROGRAM - RARP
 ## client:
@@ -82,7 +83,8 @@ P
         print("Logical Address",s.recv(1024).decode())
 ```
 ## OUPUT -RARP
-![CN rarp](https://github.com/user-attachments/assets/0b80e277-2300-4abf-bb0b-6f1b0d973e27)
+![Screenshot 2025-05-11 084813](https://github.com/user-attachments/assets/5a36847b-1292-4741-8c43-361563ba2fc5)
+
 
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
